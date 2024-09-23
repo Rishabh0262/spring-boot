@@ -15,5 +15,7 @@
 		having all kind of  *assert* functions.
 		 
 	4. MyBeforeAfterTest {}... Testing Class   
-		for all Kind of @Annotation, used in 
+		for all Kind of @Annotation, used in this.  
+		For Example. @Test, @BeforeEach, @AfterEach,   
+		*@BeforeAll* / *@AfterAll* : Needs to be a *static* method. 
 		 
